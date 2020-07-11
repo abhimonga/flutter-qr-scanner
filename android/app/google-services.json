@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733332508011",
+    "firebase_url": "https://qrcode-a5cdb.firebaseio.com",
+    "project_id": "qrcode-a5cdb",
+    "storage_bucket": "qrcode-a5cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733332508011:android:369fa18173aa70887b902e",
+        "android_client_info": {
+          "package_name": "com.example.scanner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733332508011-clloesf1vefnk03svedmavqn00vlif5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJnJaYzc-se2UTYBB2bMZ626Sxv0pCUb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733332508011-clloesf1vefnk03svedmavqn00vlif5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
